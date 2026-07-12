@@ -1,0 +1,26 @@
+# Never commit vendor firmware, extracted modules, captures, or local tool output.
+*.bin
+*.rom
+*.cap
+*.fd
+*.efi
+*.exe
+*.dll
+*.sys
+*.zip
+*.7z
+*.rar
+*.cab
+*.img
+*.iso
+*.dmp
+*.raw
+firmware/
+extracted/
+corpus/
+captures/private/
+worktrees/
+temp/
+cache/
+__pycache__/
+*.py[cod]

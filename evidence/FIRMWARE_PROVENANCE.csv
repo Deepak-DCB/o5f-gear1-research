@@ -1,0 +1,8 @@
+vendor,package_or_image,version,official_source_url,sha256,purpose,redistribution_status
+Lenovo,o5fjy17usa.exe,O5FKT17A,https://support.lenovo.com/us/en/downloads/ds545238-bios-for-windows-10-64-bit-legion-t7-34imz5-desktop,8b5b9443bc100b4271e734e6773adfe305dd9d24b5f2828d454ad5947aff96a9,Primary package provenance,not_included
+Lenovo,ImageO5F.bin,O5FKT17A,locally_extracted_from_official_package,0688f86adbfbef35d92a642f4275051cf693842a3ce90707350850f369bacd40,Primary target image,not_included
+Gigabyte,Z590_UD_F2,F2,https://www.gigabyte.com/Motherboard/Z590-UD-rev-10/support,842c2aecdc13c6859e7e9a610fe2d977ccbd82001ba4d52177a1d30b1c725b47,Partial policy reference package,not_included
+Gigabyte,Z590_UD_F2_image,F2,https://www.gigabyte.com/Motherboard/Z590-UD-rev-10/support,ffef42c467be53971d607c93f83f88da0a578b7a1f1716fc1f71ece97959c3d9,Partial policy reference image,not_included
+Dell,Alienware_Aurora_R12_1.0.1_recovery,1.0.1,https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=4tv72,9e05cbdd57c95e5f41609e66bcbf138464a3a9ae75a389d1dd53125247936a09,Partial constructor reference,not_included
+Lenovo,ThinkStation_P350_S0AKT49A_USB,S0AKT49A,https://support.lenovo.com/us/en/downloads/ds551333,e03704d93c62b52b4c38888fa997beafcda2daff7120f4902f28e52b6c9e0adf,Stage-1 filter package,not_included
+Lenovo,ThinkStation_P350_ImageS0A_cap,S0AKT49A,locally_extracted_from_official_package,96ff5a84714b1caefe82f9eaa84aabc6e2ae30badb963eca38620c8120f438cf,Stage-1 filter image,not_included

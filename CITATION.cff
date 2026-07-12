@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this research, please cite the repository and static-closure release."
+title: "Lenovo O5F Rocket Lake Gear 1 Firmware Research"
+version: "1.0-static-closure"
+date-released: 2026-07-12
+license: "MIT"
+abstract: "A read-only static analysis of Lenovo Legion T7-34IMZ5 O5F memory Gear policy, concluding NO-GO for unsupported DDR4-3200 Gear 1 experimentation."
+
